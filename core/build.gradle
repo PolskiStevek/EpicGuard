@@ -13,7 +13,7 @@ dependencies {
 
     // Provided dependencies.
     compileOnly "org.apache.logging.log4j:log4j-core:2.14.1"
-    compileOnly "org.slf4j:slf4j-api:1.7.31"
+    compileOnly "org.slf4j:slf4j-api:1.7.32"
 }
 
 shadowJar {
